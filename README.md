@@ -43,19 +43,18 @@ I am passionate about building practical Python Devploment and continuously impr
 Here are some of my key projects:
 
 ### 🔹 Project Name 1
-- Short description of what the project does
+- A modern, responsive To-Do List application built with Flask and SQLAlchemy. Manage your tasks efficiently with features like user authentication, task creation, editing, deletion, and status tracking
 - Tech used
+-  **Backend**: Python, Flask
+- **Database**: SQLite with SQLAlchemy ORM
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Template Engine**: Jinja2
 - [[Repository Link](https://github.com/SonawaneKalpesh/To-Do-list-application-Flask)](#)
 
 ### 🔹 Project Name 2
 - Short description
 
-- ## 🛠️ Technologies Used
-
-- **Backend**: Python, Flask
-- **Database**: SQLite with SQLAlchemy ORM
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Template Engine**: Jinja2
+-
 - [[Repository Link](https://github.com/SonawaneKalpesh/car-rentel)](#)
 
 

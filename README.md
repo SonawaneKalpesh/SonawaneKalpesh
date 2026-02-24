@@ -1,84 +1,85 @@
-# Hi 👋, I'm Kalpesh Sonawane
+# 👋 Hi, I'm Kalpesh Sonawane  
 
-### 💻 Aspiring Python Developer | Problem Solver
+### 💻 Aspiring Python Developer | Problem Solver | Lifelong Learner  
 
-Welcome to my GitHub profile!  
-I am passionate about building practical Python Devploment and continuously improving my development skills.
-
----
-
-## 🚀 About Me
-
-- 🎓 Student with strong interest in Python development  
-- 💡 Love working on real-world problem solving projects  
-- 🌱 Currently improving my skills in full-stack development  
-- 🎯 Goal: To become a professional Python engineer  
+Welcome to my GitHub space.  
+I enjoy turning ideas into working software, writing clean Python code, and steadily sharpening my development skills through real-world projects.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 About Me  
 
-### Programming Languages
-- Python
-- C++
-
-### Web Development
-- HTML
-- CSS
-
-
-### Database
-- MySQL
-- MongoDB
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
+- 🎓 Student with a strong foundation in Python development  
+- 🧠 Passionate about solving real-world problems through code  
+- 🌱 Currently learning full-stack development concepts  
+- 🎯 Career Goal: Become a professional Python engineer  
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Skills & Technologies  
 
-Here are some of my key projects:
+### 🧑‍💻 Programming Languages  
+- Python  
+- C++  
 
-### 🔹 Project Name 1
-- A modern, responsive To-Do List application built with Flask and SQLAlchemy. Manage your tasks efficiently with features like user authentication, task creation, editing, deletion, and status tracking
-- Tech used
--  **Backend**: Python, Flask
-- **Database**: SQLite with SQLAlchemy ORM
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Template Engine**: Jinja2
-- [[Repository Link](https://github.com/SonawaneKalpesh/To-Do-list-application-Flask)](#)
+### 🌐 Web Development  
+- HTML5  
+- CSS3  
 
-### 🔹 Project Name 2
-- Short description
+### 🗄️ Databases  
+- MySQL  
+- MongoDB  
 
--
-- [[Repository Link](https://github.com/SonawaneKalpesh/car-rentel)](#)
-
+### ⚙️ Tools & Platforms  
+- Git  
+- GitHub  
+- VS Code  
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Featured Projects  
+
+### 🔹 To-Do List Application (Flask)  
+A modern and responsive To-Do List application designed to manage tasks efficiently.  
+Includes authentication, task creation, editing, deletion, and progress tracking.
+
+**Tech Stack:**  
+- **Backend:** Python, Flask  
+- **Database:** SQLite, SQLAlchemy ORM  
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Template Engine:** Jinja2  
+
+🔗 **Repository:**  
+[To-Do List Application](https://github.com/SonawaneKalpesh/To-Do-list-application-Flask)
+
+---
+
+### 🔹 Car Rental System  
+A basic car rental management system focused on core CRUD operations and business logic.
+
+🔗 **Repository:**  
+[Car Rental Project](https://github.com/SonawaneKalpesh/car-rentel)
+
+---
+
+## 📈 GitHub Stats  
 
 ![Kalpesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonawaneKalpesh&show_icons=true&theme=default)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me  
 
-- LinkedIn: (Add your LinkedIn link)
-- Email: (Add your email)
-- Portfolio: (If available)
-
----
-
-## 💬 Quote I Believe In
-
-> "Consistency beats motivation."
+- 💼 LinkedIn: *[Kalpesh Sonawane](https://www.linkedin.com/in/kalpesh-sonawane-2211b43a9)*  
+- 📧 Email: *kalpeshsonawane990@gmail.com*  
+- 🌐 Portfolio: *if available*  
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 💬 Quote I Believe In  
 
+> *Consistency beats motivation.*
+
+---
+
+⭐ Thanks for stopping by. Feel free to explore my repositories and follow my journey.
